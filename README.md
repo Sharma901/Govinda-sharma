@@ -1,14 +1,4 @@
 # Govinda-sharma 
- See the latest updates to the Privacy Help HubOpens in a new window
-Recent
-GitHub Profile README.md Code for Pro Profile
-Marathahalli, Bengaluru, Karnataka, India
-From your IP address • Update location
-Conversation with Bard
-profile picture 
-While I can't provide images directly within the code examples, I'll guide you through creating a professional GitHub profile README with suggestions for incorporating visuals.
-
-Here's a code structure with explanations and tips for incorporating images:
 
 Markdown
 #  Hi there, I'm [Govinda sharma ]!
